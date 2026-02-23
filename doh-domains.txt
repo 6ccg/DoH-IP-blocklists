@@ -145,7 +145,6 @@ bazooki-infra.dev
 bestwon203.com
 biying.flymlc.com
 bl.eq.md
-blackhole.myon.lu
 blitz-setup.ahadns.com
 blitz.ahadns.com
 block.abstergo.it
@@ -205,7 +204,6 @@ d.bod.lol
 d.niaox.com
 d.toairs.com
 d2.shabi.icu
-dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -372,7 +370,6 @@ dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.edgy.network
-dns.edison42.dev
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -387,7 +384,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -478,7 +474,6 @@ dns.l337.site
 dns.labnekotest.site
 dns.lepilleur.com
 dns.lermer.nl
-dns.levonet.sk
 dns.lgprk.com
 dns.liberador.net
 dns.lightmaster.pw
@@ -530,7 +525,6 @@ dns.nguyendn.com
 dns.nick-slowinski.de
 dns.ningkelle.id
 dns.njal.la
-dns.nodoa.me
 dns.novali.date
 dns.novg.net
 dns.npe.bz
@@ -738,6 +732,7 @@ doh-sg.blahdns.com
 doh.18bit.cn
 doh.233py.com
 doh.30x.me
+doh.360.cn
 doh.42l.fr
 doh.aaaab3n.moe
 doh.abraservice.xyz
@@ -757,7 +752,6 @@ doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
 doh.cippapp.com
-doh.cleanbrowsing.org
 doh.cnetwork.cloud
 doh.cornes.me
 doh.cox.net
@@ -1103,7 +1097,6 @@ ns.nerdytechgeeks.co.za
 ns.net.kg
 ns.nwps.fi
 ns.ral9005.org
-ns.trcnet.fi
 ns0.fdn.fr
 ns1.dotls.org
 ns1.fdn.fr
@@ -1331,7 +1324,6 @@ tpe01.dnscry.pt
 trf01.dnscry.pt
 tri-dns.net
 tributh.net
-truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
