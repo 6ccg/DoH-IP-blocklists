@@ -169,12 +169,12 @@ dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
 dns.msxnet.ru
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
+dns.nodoa.me
 dns.norvig.dk
 dns.npsolution.it
 dns.onp.cloud
@@ -415,6 +415,7 @@ orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
 paradise-human.shop
+pates.services.sfr.fr.casepp.sfr.fr
 pepetio.xyz
 pi1.node15.com
 please.dontsteal.my.id
@@ -448,7 +449,6 @@ t2c.240130034.xyz
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
-truta.org
 tundranet.hec.to
 tw2.ooroot.com
 tx.teradns.org
