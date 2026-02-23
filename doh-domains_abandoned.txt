@@ -54,7 +54,6 @@ bahopir188.dnshome.de
 bcandrade.ml
 berd.moe
 bigora2.vuhai.de
-blackhole.myon.lu
 bld.sys-adm.in
 buc-m2.illmods.com
 canadianshield.cira.ca
@@ -176,7 +175,6 @@ dns.neowutran.ovh
 dns.nhtsky.com
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
-dns.nodoa.me
 dns.norvig.dk
 dns.npsolution.it
 dns.onp.cloud
@@ -417,7 +415,6 @@ orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
 paradise-human.shop
-pates.services.sfr.fr.casepp.sfr.fr
 pepetio.xyz
 pi1.node15.com
 please.dontsteal.my.id
@@ -431,7 +428,6 @@ polisitogel.limo
 polisitogel.living
 polisitogel.luxe
 pope.cnblw.me
-query.hdns.io
 resolver-eu.lelux.fi
 resolver.dnsprivacy.org.uk
 resolver.noaddns.com
@@ -452,6 +448,7 @@ t2c.240130034.xyz
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
+truta.org
 tundranet.hec.to
 tw2.ooroot.com
 tx.teradns.org
