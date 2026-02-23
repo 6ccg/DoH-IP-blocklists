@@ -144,6 +144,7 @@ dns.hugo0.moe
 dns.huyhoangit.net
 dns.hypercute.eu
 dns.ian.rocks
+dns.imaicool.com
 dns.inclusioproject.com
 dns.indust.me
 dns.indybanipal.com
@@ -175,7 +176,6 @@ dns.neowutran.ovh
 dns.nhtsky.com
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
-dns.nodoa.me
 dns.norvig.dk
 dns.npsolution.it
 dns.onp.cloud
@@ -197,7 +197,6 @@ dns.rootlab.top
 dns.rslvr.eu
 dns.salonia.it
 dns.seiffert.me
-dns.shecan.ir
 dns.simplylinux.ch
 dns.siry.de
 dns.stvsk.ml
@@ -247,6 +246,8 @@ dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-fi.blahdns.com
 doh-jp.blahdns.com
+doh.18bit.cn
+doh.360.cn
 doh.774445.xyz
 doh.978159.xyz
 doh.abmb.win
@@ -333,7 +334,6 @@ farewellkou.click
 fet01.dnscry.pt
 fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
-free.shecan.ir
 groupy.ga
 ha.o51r15.com
 hk.rslvr.eu
@@ -356,7 +356,6 @@ jp.rslvr.eu
 kaitain.restena.lu
 kids.5ososea.com
 kids.dns0.eu
-kilabit.info
 korzhov.dev
 kracon.anycast.censurfridns.dk
 kswro.web.id
@@ -419,6 +418,7 @@ orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
 paradise-human.shop
+pates.services.sfr.fr.casepp.sfr.fr
 pepetio.xyz
 pi1.node15.com
 please.dontsteal.my.id
@@ -432,7 +432,6 @@ polisitogel.limo
 polisitogel.living
 polisitogel.luxe
 pope.cnblw.me
-pro.shecan.ir
 resolver-eu.lelux.fi
 resolver.dnsprivacy.org.uk
 resolver.noaddns.com
