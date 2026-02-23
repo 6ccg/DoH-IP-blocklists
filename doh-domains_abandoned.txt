@@ -34,6 +34,7 @@ adguard.mattiafenzi.uk
 adguard.mrmartian.co
 adguard.neon0404.space
 adguard.nielsvoorn.nl
+adguard.oms-ctr.ru
 adguard.quydang.name.vn
 adguard.sparshbajaj.me
 adguard.taxiora.tn
@@ -143,7 +144,6 @@ dns.hugo0.moe
 dns.huyhoangit.net
 dns.hypercute.eu
 dns.ian.rocks
-dns.imaicool.com
 dns.inclusioproject.com
 dns.indust.me
 dns.indybanipal.com
@@ -169,12 +169,13 @@ dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
-dns.neubsi.at
 dns.nhtsky.com
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
+dns.nodoa.me
 dns.norvig.dk
 dns.npsolution.it
 dns.onp.cloud
@@ -189,11 +190,9 @@ dns.princex.net
 dns.privado.ovh
 dns.privilab.net
 dns.rafn.is
-dns.rbn.gr
 dns.reckoningslug.name
 dns.repinger.my.id
 dns.repressoh.it
-dns.ronc.ru
 dns.rootlab.top
 dns.rslvr.eu
 dns.salonia.it
@@ -211,7 +210,6 @@ dns.truong.fi
 dns.trust404.win
 dns.uplenk.com
 dns.us.futuredns.eu.org
-dns.vip-kingstore.xyz
 dns.vishalk.com
 dns.vod11.xyz
 dns.vojtat.cz
@@ -249,7 +247,6 @@ dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-fi.blahdns.com
 doh-jp.blahdns.com
-doh.360.cn
 doh.774445.xyz
 doh.978159.xyz
 doh.abmb.win
@@ -274,7 +271,6 @@ doh.hottis.de
 doh.in.ahadns.net
 doh.infotek.net.id
 doh.it.ahadns.net
-doh.kekew.info
 doh.kutu.my.id
 doh.linngde.com
 doh.linuxsec.org
@@ -360,6 +356,7 @@ jp.rslvr.eu
 kaitain.restena.lu
 kids.5ososea.com
 kids.dns0.eu
+kilabit.info
 korzhov.dev
 kracon.anycast.censurfridns.dk
 kswro.web.id
@@ -422,7 +419,6 @@ orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
 paradise-human.shop
-pates.services.sfr.fr.casepp.sfr.fr
 pepetio.xyz
 pi1.node15.com
 please.dontsteal.my.id
@@ -457,7 +453,6 @@ t2c.240130034.xyz
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
-truta.org
 tundranet.hec.to
 tw2.ooroot.com
 tx.teradns.org

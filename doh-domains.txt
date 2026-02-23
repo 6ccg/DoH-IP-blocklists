@@ -71,7 +71,6 @@ adguard.londonwebnerd.cloud
 adguard.maison.gifino.fr
 adguard.marto.si
 adguard.meddy94.de
-adguard.oms-ctr.ru
 adguard.onlyfriends.info
 adguard.pangerl.it
 adguard.pggns.de
@@ -437,6 +436,7 @@ dns.iamninja.ru
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
+dns.imaicool.com
 dns.imchristian.de
 dns.immanuelschaffer.de
 dns.inforlogia.com
@@ -514,7 +514,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -524,12 +523,12 @@ dns.neeb.it
 dns.neilzone.co.uk
 dns.netraptor.com.au
 dns.netvpn.net
+dns.neubsi.at
 dns.nextdns.io
 dns.nguyendn.com
 dns.nick-slowinski.de
 dns.ningkelle.id
 dns.njal.la
-dns.nodoa.me
 dns.novali.date
 dns.novg.net
 dns.npe.bz
@@ -564,6 +563,7 @@ dns.quad9.net
 dns.quiet.rocks
 dns.rabbitdns.org
 dns.rayanbab.com
+dns.rbn.gr
 dns.redhosting.com.ar
 dns.redvau.lt
 dns.reitmeier.me
@@ -572,6 +572,7 @@ dns.repinger.com
 dns.retakecs.com
 dns.rin.sh
 dns.roedel.cloud
+dns.ronc.ru
 dns.rotunneling.net
 dns.rubyfish.cn
 dns.sarak.as
@@ -643,6 +644,7 @@ dns.vault81.de
 dns.velyn.my.id
 dns.vinnyp.xyz
 dns.vinokurov.tk
+dns.vip-kingstore.xyz
 dns.vmath.my.id
 dns.w3ctag.org
 dns.wang.art
@@ -733,6 +735,7 @@ doh-sg.blahdns.com
 doh.18bit.cn
 doh.233py.com
 doh.30x.me
+doh.360.cn
 doh.42l.fr
 doh.aaaab3n.moe
 doh.abraservice.xyz
@@ -784,6 +787,7 @@ doh.immerda.ch
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
+doh.kekew.info
 doh.kel.pe
 doh.kidzonet.io
 doh.killtw.im
@@ -1011,7 +1015,6 @@ kaiwu.xyz
 kavkaz.monster
 keithchung.hopto.org
 kids.ns.nwps.fi
-kilabit.info
 kiri.nonexiste.net
 kiv01.dnscry.pt
 ko-18948-tr.xyz
@@ -1149,6 +1152,7 @@ p3.freedns.controld.com
 par01.dnscry.pt
 paranoia.mydns.network
 pashagame456.com
+pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pdns.faelix.net
 pdns.itxe.net
@@ -1322,6 +1326,7 @@ tpe01.dnscry.pt
 trf01.dnscry.pt
 tri-dns.net
 tributh.net
+truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
