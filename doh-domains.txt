@@ -437,7 +437,6 @@ dns.iamninja.ru
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
-dns.imaicool.com
 dns.imchristian.de
 dns.immanuelschaffer.de
 dns.inforlogia.com
@@ -524,6 +523,7 @@ dns.neeb.it
 dns.neilzone.co.uk
 dns.netraptor.com.au
 dns.netvpn.net
+dns.neubsi.at
 dns.nextdns.io
 dns.nguyendn.com
 dns.nick-slowinski.de
@@ -706,7 +706,6 @@ dns9.quad9.net
 dnsblock.grisumedia.de
 dnscache.e-utp.net
 dnscache0.ns71.net
-dnsdoh.art
 dnsenc.com
 dnsforfamily.com
 dnsforge.de
@@ -1103,6 +1102,7 @@ ns.nerdytechgeeks.co.za
 ns.net.kg
 ns.nwps.fi
 ns.ral9005.org
+ns.trcnet.fi
 ns0.fdn.fr
 ns1.dotls.org
 ns1.fdn.fr
@@ -1155,6 +1155,7 @@ p3.freedns.controld.com
 par01.dnscry.pt
 paranoia.mydns.network
 pashagame456.com
+pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pdns.faelix.net
 pdns.itxe.net
