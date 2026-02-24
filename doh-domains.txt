@@ -26,6 +26,7 @@ adb.timnichollsphotography.com
 adblock.dns.mullvad.net
 adblock.doh.mullvad.net
 adblock.indianets.net
+adblock.krctech.dev
 adblock.leenit.kr
 adblock.mydns.network
 adblockersite.com
@@ -88,7 +89,6 @@ adguard1.leadmon.net
 adguardhome.atakorah.com
 adl.adfilter.net
 ads.hunga1k47.com
-adult-filter-dns.cleanbrowsing.org
 ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
 ae-fuj-w-p-3.nashkan.net
@@ -145,7 +145,6 @@ bestwon203.com
 biying.flymlc.com
 bl.eq.md
 blitz-setup.ahadns.com
-blitz.ahadns.com
 block.abstergo.it
 blocker.thethorsens.org
 blockerads.multimediaconcept.fr
@@ -167,7 +166,6 @@ callies-online.site
 catchen121299.top
 catdns.org
 cdn.0ms.dev
-cfdjb.org
 chaos-system.de
 child-noads.joindns4.eu
 child.joindns4.eu
@@ -235,6 +233,7 @@ dns-malwaresec.nordthreatprotection.com
 dns-nosec.quad9.net
 dns-privacy.puregeni.us
 dns-public.ibakerserver.pt
+dns-tls.bitwiseshift.net
 dns-unfiltered.adguard.com
 dns.0ooo.icu
 dns.13evl.com
@@ -288,7 +287,6 @@ dns.beta.gandi.net
 dns.bitdefender.net
 dns.bitservices.io
 dns.blaumer.dev
-dns.blokada.org
 dns.bmwhocking.com
 dns.bobstrecansky.com
 dns.bofh.in
@@ -353,7 +351,6 @@ dns.decloudus.com
 dns.dekedin.me
 dns.dev-umbrellagov.com
 dns.dgea.fr
-dns.diarbagus.id
 dns.digitale-gesellschaft.ch
 dns.digitalsize.net
 dns.dns-53.com
@@ -370,7 +367,6 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edgy.network
 dns.edison42.dev
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -434,7 +430,6 @@ dns.iamninja.ru
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
-dns.imaicool.com
 dns.imchristian.de
 dns.immanuelschaffer.de
 dns.inforlogia.com
@@ -512,7 +507,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -522,6 +516,7 @@ dns.neeb.it
 dns.neilzone.co.uk
 dns.netraptor.com.au
 dns.netvpn.net
+dns.neubsi.at
 dns.nextdns.io
 dns.nguyendn.com
 dns.nick-slowinski.de
@@ -598,6 +593,7 @@ dns.sitdns.com
 dns.skrep.eu
 dns.skrep.in
 dns.slinkyman.net
+dns.smartguard.io
 dns.soldier.terumi.club
 dns.spil.co.id
 dns.spirio.fr
@@ -731,6 +727,7 @@ doh-primary-pool.goodbyegambling.com
 doh-pure.onedns.net
 doh-random-upstream.nicolas-dorriere.fr
 doh-sg.blahdns.com
+doh.18bit.cn
 doh.233py.com
 doh.30x.me
 doh.360.cn
@@ -886,7 +883,6 @@ evn01.dnscry.pt
 extended.dns.mullvad.net
 externalmobiel.lekdijk.online
 eyg01.dnscry.pt
-family-filter-dns.cleanbrowsing.org
 family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
