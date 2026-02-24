@@ -52,7 +52,6 @@ adguard.bonis.de
 adguard.bonsirven.eu
 adguard.dantynes.cyou
 adguard.dekonix.ru
-adguard.depieri.net
 adguard.easez.net
 adguard.ef67daisuki.club
 adguard.ender.fr
@@ -117,7 +116,6 @@ ams02.dnscry.pt
 ant.dns.qwer.pw
 antivirus.bebasid.com
 anycast.censurfridns.dk
-anycast.dns.nextdns.io
 anycast.uncensoreddns.org
 aqua.is.my.waifu.cz
 arashi.eu.org
@@ -167,7 +165,6 @@ callies-online.site
 catchen121299.top
 catdns.org
 cdn.0ms.dev
-cfdjb.org
 chaos-system.de
 child-noads.joindns4.eu
 child.joindns4.eu
@@ -193,6 +190,7 @@ comss.ru
 cph01.dnscry.pt
 crypto.sx
 cryptostorm.is
+cube.neubsi.at
 cubedns.com
 cvt01.dnscry.pt
 cynntex.fun
@@ -372,7 +370,6 @@ dns.edgy.network
 dns.edison42.dev
 dns.elemental.software
 dns.eliv.kr
-dns.engineer.web.id
 dns.eu-frankfurt-1.oraclecloud.com
 dns.expert
 dns.extrawdw.net
@@ -734,6 +731,7 @@ doh-sg.blahdns.com
 doh.18bit.cn
 doh.233py.com
 doh.30x.me
+doh.360.cn
 doh.42l.fr
 doh.aaaab3n.moe
 doh.abraservice.xyz
@@ -942,6 +940,7 @@ goose.buckyfan.net
 greatideasforlife.lol
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1287,6 +1286,7 @@ sink.nolo.ltd
 sitdns.com
 sjc01.dnscry.pt
 sky.rethinkdns.com
+skydragoness.com
 slc01.dnscry.pt
 sm2.doh.pub
 sof01.dnscry.pt
