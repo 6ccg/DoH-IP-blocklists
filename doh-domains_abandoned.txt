@@ -54,6 +54,7 @@ bahopir188.dnshome.de
 bcandrade.ml
 berd.moe
 bigora2.vuhai.de
+blackhole.myon.lu
 bld.sys-adm.in
 blitz.ahadns.com
 buc-m2.illmods.com
@@ -247,6 +248,7 @@ dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-fi.blahdns.com
 doh-jp.blahdns.com
+doh.360.cn
 doh.774445.xyz
 doh.978159.xyz
 doh.abmb.win
@@ -334,6 +336,7 @@ fet01.dnscry.pt
 fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 groupy.ga
+gustamadh.dynv6.net
 ha.o51r15.com
 hk.rslvr.eu
 hrk01.dnscry.pt
@@ -441,6 +444,7 @@ sg.gridns.xyz
 sg.rslvr.eu
 sin01.dnscry.pt
 sitha-is.so-gorgeo.us.kg
+skydragoness.com
 snoke.meganerd.nl
 solaxy.live
 sriedmueadguard.casa
@@ -451,6 +455,7 @@ t2c.240130034.xyz
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
+truta.org
 tundranet.hec.to
 tw2.ooroot.com
 tx.teradns.org
