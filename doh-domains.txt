@@ -26,7 +26,6 @@ adb.timnichollsphotography.com
 adblock.dns.mullvad.net
 adblock.doh.mullvad.net
 adblock.indianets.net
-adblock.krctech.dev
 adblock.leenit.kr
 adblock.mydns.network
 adblockersite.com
@@ -194,6 +193,7 @@ comss.ru
 cph01.dnscry.pt
 crypto.sx
 cryptostorm.is
+cube.neubsi.at
 cubedns.com
 cvt01.dnscry.pt
 cynntex.fun
@@ -235,7 +235,6 @@ dns-malwaresec.nordthreatprotection.com
 dns-nosec.quad9.net
 dns-privacy.puregeni.us
 dns-public.ibakerserver.pt
-dns-tls.bitwiseshift.net
 dns-unfiltered.adguard.com
 dns.0ooo.icu
 dns.13evl.com
@@ -434,7 +433,6 @@ dns.iamninja.ru
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
-dns.imaicool.com
 dns.imchristian.de
 dns.immanuelschaffer.de
 dns.inforlogia.com
@@ -475,6 +473,7 @@ dns.l337.site
 dns.labnekotest.site
 dns.lepilleur.com
 dns.lermer.nl
+dns.levonet.sk
 dns.lgprk.com
 dns.liberador.net
 dns.lightmaster.pw
@@ -515,7 +514,6 @@ dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
 dns.narl.app
-dns.nas-server.ru
 dns.neeb.it
 dns.neilzone.co.uk
 dns.netraptor.com.au
@@ -587,7 +585,6 @@ dns.seia.io
 dns.sellan.fr
 dns.sev.monster
 dns.shareworx.net
-dns.shecan.ir
 dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
@@ -805,7 +802,6 @@ doh.nic.lv
 doh.niyawe.de
 doh.nl.ahadns.net
 doh.ntu.ssooss.win
-doh.onedns.net
 doh.opendns.com
 doh.phdns2.lonet.org
 doh.powerdns.org
@@ -918,7 +914,6 @@ fra02.dnscry.pt
 fra1.eyecay.xyz
 frd4wvnobp.cloudflare-gateway.com
 free.bravedns.com
-free.shecan.ir
 freedns.controld.com
 freedom.mydns.network
 frog.dns.qwer.pw
@@ -1065,8 +1060,6 @@ megumin.is.my.waifu.cz
 mendozasdelivery.com
 mia01.dnscry.pt
 michelo.line.pm
-mickedi.isgood.host
-mikezhang.xyz
 mil01.dnscry.pt
 morbitzer.de
 mozilla.cloudflare-dns.com
@@ -1100,7 +1093,6 @@ ns.nerdytechgeeks.co.za
 ns.net.kg
 ns.nwps.fi
 ns.ral9005.org
-ns.trcnet.fi
 ns0.fdn.fr
 ns1.dotls.org
 ns1.fdn.fr
@@ -1153,7 +1145,6 @@ p3.freedns.controld.com
 par01.dnscry.pt
 paranoia.mydns.network
 pashagame456.com
-pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pdns.faelix.net
 pdns.itxe.net
@@ -1182,7 +1173,6 @@ privacy.plumedns.com
 privacydns.go6lab.si
 private.canadianshield.cira.ca
 privatnas.servebeer.com
-pro.shecan.ir
 project-evoex.de
 protected.canadianshield.cira.ca
 protective.joindns4.eu
@@ -1309,7 +1299,6 @@ syd02.dnscry.pt
 takhtakh.domyah.net
 tbs01.dnscry.pt
 tecdrive.site
-testaghome.meshkov.info
 testguard.meexx.de
 tienpham.id.vn
 tiger.dns.qwer.pw
@@ -1385,7 +1374,6 @@ wdns.233py.com
 wikimedia-dns.org
 wurzn.hagezi.org
 www.c-dns.com
-www.chungocoai.name.vn
 www.dnsadguard.co.uk
 www.inpssh.online
 www.jabber-germany.de
