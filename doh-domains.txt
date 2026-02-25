@@ -145,7 +145,6 @@ bazooki-infra.dev
 bestwon203.com
 biying.flymlc.com
 bl.eq.md
-blackhole.myon.lu
 blitz-setup.ahadns.com
 block.abstergo.it
 blocker.thethorsens.org
@@ -204,6 +203,7 @@ d.bod.lol
 d.niaox.com
 d.toairs.com
 d2.shabi.icu
+dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -235,6 +235,7 @@ dns-malwaresec.nordthreatprotection.com
 dns-nosec.quad9.net
 dns-privacy.puregeni.us
 dns-public.ibakerserver.pt
+dns-tls.bitwiseshift.net
 dns-unfiltered.adguard.com
 dns.0ooo.icu
 dns.13evl.com
@@ -373,7 +374,6 @@ dns.edison42.dev
 dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
-dns.engineer.web.id
 dns.eu-frankfurt-1.oraclecloud.com
 dns.expert
 dns.extrawdw.net
@@ -512,6 +512,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -521,7 +522,6 @@ dns.neeb.it
 dns.neilzone.co.uk
 dns.netraptor.com.au
 dns.netvpn.net
-dns.neubsi.at
 dns.nextdns.io
 dns.nguyendn.com
 dns.nick-slowinski.de
@@ -676,7 +676,6 @@ dns1.irumatech.com
 dns1.klcd.eu
 dns1.nextdns.io
 dns1.nordvpn.com
-dns1.ryan-palmer.com
 dns1.serdcebolit.ru
 dns1.server.my.id
 dns1.techeasy.org
@@ -713,6 +712,7 @@ dnslow.me
 dnsnl.alekberg.net
 dnsotls.lab.nic.cl
 dnspub.restena.lu
+dnstls.mobik.com
 dnsvps.familiamv.net
 dnswebvsn.com
 do-39574-tr.xyz
@@ -1333,6 +1333,7 @@ tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
+tungdnsne.duckdns.org
 tuskythehusky.tech
 tyo01.dnscry.pt
 tyo02.dnscry.pt

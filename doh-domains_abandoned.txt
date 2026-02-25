@@ -54,6 +54,7 @@ bahopir188.dnshome.de
 bcandrade.ml
 berd.moe
 bigora2.vuhai.de
+blackhole.myon.lu
 bld.sys-adm.in
 blitz.ahadns.com
 buc-m2.illmods.com
@@ -66,7 +67,6 @@ clearweb.woodbridge.club
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
-dandelionsprout.asuscomm.com
 de-d2.foxyfy.net
 de.adhole.org
 dfw01.dnscry.pt
@@ -76,7 +76,6 @@ dns-east.tylerwahl.com
 dns-nyc.aaflalo.me
 dns-ovh.panszelescik.pl
 dns-secondary.cloudnx.cloud
-dns-tls.bitwiseshift.net
 dns-weblock.wevpn.com
 dns.0rz.ing
 dns.0x55.net
@@ -128,6 +127,7 @@ dns.editechstudio.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
+dns.engineer.web.id
 dns.enzonix.com
 dns.f97.xyz
 dns.faze.dev
@@ -171,9 +171,9 @@ dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
 dns.msxnet.ru
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
+dns.neubsi.at
 dns.nhtsky.com
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
@@ -229,6 +229,7 @@ dns1.ipv6.dnscrypt.ca
 dns1.lothuscorp.com.br
 dns1.nielsdb.be
 dns1.pietjacobs.be
+dns1.ryan-palmer.com
 dns1.sg.newpangea.de
 dns1.us.newpangea.de
 dns2.dnscrypt.ca
@@ -243,7 +244,6 @@ dnsovertls2.sinodun.com
 dnsovertls3.sinodun.com
 dnsse-noads.alekberg.net
 dnsse.alekberg.net
-dnstls.mobik.com
 dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-fi.blahdns.com
@@ -452,7 +452,6 @@ tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
-tungdnsne.duckdns.org
 tw2.ooroot.com
 tx.teradns.org
 uf-dns.lista.my.id
