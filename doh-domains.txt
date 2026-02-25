@@ -26,6 +26,7 @@ adb.timnichollsphotography.com
 adblock.dns.mullvad.net
 adblock.doh.mullvad.net
 adblock.indianets.net
+adblock.krctech.dev
 adblock.leenit.kr
 adblock.mydns.network
 adblockersite.com
@@ -144,7 +145,6 @@ bazooki-infra.dev
 bestwon203.com
 biying.flymlc.com
 bl.eq.md
-blackhole.myon.lu
 blitz-setup.ahadns.com
 block.abstergo.it
 blocker.thethorsens.org
@@ -384,6 +384,7 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -433,6 +434,7 @@ dns.iamninja.ru
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
+dns.imaicool.com
 dns.imchristian.de
 dns.immanuelschaffer.de
 dns.inforlogia.com
@@ -473,7 +475,6 @@ dns.l337.site
 dns.labnekotest.site
 dns.lepilleur.com
 dns.lermer.nl
-dns.levonet.sk
 dns.lgprk.com
 dns.liberador.net
 dns.lightmaster.pw
@@ -510,6 +511,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -569,7 +571,6 @@ dns.repinger.com
 dns.retakecs.com
 dns.rin.sh
 dns.roedel.cloud
-dns.ronc.ru
 dns.rotunneling.net
 dns.rubyfish.cn
 dns.sarak.as
@@ -596,7 +597,6 @@ dns.sitdns.com
 dns.skrep.eu
 dns.skrep.in
 dns.slinkyman.net
-dns.smartguard.io
 dns.soldier.terumi.club
 dns.spil.co.id
 dns.spirio.fr
@@ -1206,7 +1206,6 @@ regiopolis.cloud
 renardbleu.dev
 res-acst1.absolight.net
 res-acst2.absolight.net
-res-acst3.absolight.net
 resolv.flokinet.net
 resolv1.trash.net
 resolv2.trash.net
@@ -1326,7 +1325,6 @@ tpe01.dnscry.pt
 trf01.dnscry.pt
 tri-dns.net
 tributh.net
-truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
