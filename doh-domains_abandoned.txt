@@ -54,7 +54,6 @@ bahopir188.dnshome.de
 bcandrade.ml
 berd.moe
 bigora2.vuhai.de
-blackhole.myon.lu
 bld.sys-adm.in
 blitz.ahadns.com
 buc-m2.illmods.com
@@ -125,7 +124,6 @@ dns.dooks.uk
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -163,7 +161,6 @@ dns.kumoumi.net
 dns.lars-lehmann.net
 dns.lashes-brow.ru
 dns.learningman.top
-dns.levonet.sk
 dns.lsho.top
 dns.lvolland.fr
 dns.mandre.dev
@@ -172,12 +169,15 @@ dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
+dns.neubsi.at
 dns.nhtsky.com
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
 dns.norvig.dk
+dns.novg.net
 dns.npsolution.it
 dns.onp.cloud
 dns.opnsource.com.au
@@ -190,18 +190,17 @@ dns.pragmasec.nl
 dns.princex.net
 dns.privado.ovh
 dns.privilab.net
+dns.pumpkinvrar.com
 dns.rafn.is
 dns.reckoningslug.name
 dns.repinger.my.id
 dns.repressoh.it
-dns.ronc.ru
 dns.rootlab.top
 dns.rslvr.eu
 dns.salonia.it
 dns.seiffert.me
 dns.simplylinux.ch
 dns.siry.de
-dns.smartguard.io
 dns.stvsk.ml
 dns.swin.pro
 dns.theres.one
@@ -419,7 +418,6 @@ orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
 paradise-human.shop
-pates.services.sfr.fr.casepp.sfr.fr
 pepetio.xyz
 pi1.node15.com
 please.dontsteal.my.id
@@ -433,7 +431,7 @@ polisitogel.limo
 polisitogel.living
 polisitogel.luxe
 pope.cnblw.me
-res-acst3.absolight.net
+res-acst1.absolight.net
 resolver-eu.lelux.fi
 resolver.dnsprivacy.org.uk
 resolver.noaddns.com
@@ -454,7 +452,6 @@ t2c.240130034.xyz
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
-truta.org
 tundranet.hec.to
 tw2.ooroot.com
 tx.teradns.org
