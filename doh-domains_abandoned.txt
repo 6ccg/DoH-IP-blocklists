@@ -59,6 +59,7 @@ bld.sys-adm.in
 blitz.ahadns.com
 buc-m2.illmods.com
 canadianshield.cira.ca
+cfdjb.org
 chandr1000.net
 chaos.altendorfme.com
 chewbacca.meganerd.nl
@@ -67,6 +68,7 @@ clearweb.woodbridge.club
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
+dandelionsprout.asuscomm.com
 de-d2.foxyfy.net
 de.adhole.org
 dfw01.dnscry.pt
@@ -102,7 +104,6 @@ dns.bayas.dev
 dns.benpro.fr
 dns.blaze-sk.ru
 dns.bravoc.one
-dns.butterfly87.sbs
 dns.bw.i81.ru
 dns.cabbage.zone
 dns.carter.me
@@ -129,10 +130,10 @@ dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.enzonix.com
-dns.f97.xyz
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -145,6 +146,7 @@ dns.hugo0.moe
 dns.huyhoangit.net
 dns.hypercute.eu
 dns.ian.rocks
+dns.imaicool.com
 dns.inclusioproject.com
 dns.indust.me
 dns.indybanipal.com
@@ -162,7 +164,6 @@ dns.kumoumi.net
 dns.lars-lehmann.net
 dns.lashes-brow.ru
 dns.learningman.top
-dns.lsho.top
 dns.lvolland.fr
 dns.mandre.dev
 dns.melalandia.tk
@@ -173,7 +174,6 @@ dns.msxnet.ru
 dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
-dns.neubsi.at
 dns.nhtsky.com
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
@@ -360,7 +360,6 @@ korzhov.dev
 kracon.anycast.censurfridns.dk
 kswro.web.id
 la.ray0512.win
-lifeisa.live
 lim01.dnscry.pt
 local.sufly.top
 lon-dns.bitdefender.net
@@ -380,6 +379,7 @@ mabuktogel.ltd
 mabuktogel.marketing
 mabuktogel.properties
 mabuktogel.solutions
+mc-sft.cn
 mecca-is.so-gorgeo.us.kg
 miniapp.global
 minilla.store
@@ -401,6 +401,7 @@ nl.rslvr.eu
 nora-is.so-gorgeo.us.kg
 nova-is.so-gorgeo.us.kg
 ns.lov.host
+ns.trcnet.fi
 ns1-doh.iriseden.fr
 ns1.dnsprivacy.at
 ns2-doh.iriseden.fr
@@ -419,7 +420,6 @@ orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
 paradise-human.shop
-pates.services.sfr.fr.casepp.sfr.fr
 pepetio.xyz
 pi1.node15.com
 please.dontsteal.my.id
