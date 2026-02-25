@@ -11,6 +11,7 @@ ad.anym0re.ru
 ad1.heronet.nl
 adblock.any.dns.nixnet.xyz
 adblock.borjalopez.eu
+adblock.krctech.dev
 adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
 adblock.ny1.dns.nixnet.xyz
@@ -65,7 +66,6 @@ chr.kepegawaiandju.id
 clearweb.woodbridge.club
 console.carestyle.org
 cossxiu.ga
-cube.neubsi.at
 cvt-ic-us-adns-001.clearviewtechnology.net
 de-d2.foxyfy.net
 de.adhole.org
@@ -124,6 +124,7 @@ dns.dooks.uk
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -132,6 +133,7 @@ dns.f97.xyz
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -144,6 +146,7 @@ dns.hugo0.moe
 dns.huyhoangit.net
 dns.hypercute.eu
 dns.ian.rocks
+dns.imaicool.com
 dns.inclusioproject.com
 dns.indust.me
 dns.indybanipal.com
@@ -157,6 +160,7 @@ dns.janl.eu
 dns.joaofidelix.com.br
 dns.jucker.engineering
 dns.keke125.com
+dns.koala.us.to
 dns.kumoumi.net
 dns.lars-lehmann.net
 dns.lashes-brow.ru
@@ -169,15 +173,12 @@ dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
 dns.msxnet.ru
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
-dns.neubsi.at
 dns.nhtsky.com
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
 dns.norvig.dk
-dns.novg.net
 dns.npsolution.it
 dns.onp.cloud
 dns.opnsource.com.au
@@ -190,7 +191,6 @@ dns.pragmasec.nl
 dns.princex.net
 dns.privado.ovh
 dns.privilab.net
-dns.pumpkinvrar.com
 dns.rafn.is
 dns.reckoningslug.name
 dns.repinger.my.id
@@ -418,6 +418,7 @@ orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
 paradise-human.shop
+pates.services.sfr.fr.casepp.sfr.fr
 pepetio.xyz
 pi1.node15.com
 please.dontsteal.my.id
@@ -431,7 +432,6 @@ polisitogel.limo
 polisitogel.living
 polisitogel.luxe
 pope.cnblw.me
-res-acst1.absolight.net
 resolver-eu.lelux.fi
 resolver.dnsprivacy.org.uk
 resolver.noaddns.com
