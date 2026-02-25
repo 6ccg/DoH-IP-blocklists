@@ -145,6 +145,7 @@ bazooki-infra.dev
 bestwon203.com
 biying.flymlc.com
 bl.eq.md
+blackhole.myon.lu
 blitz-setup.ahadns.com
 block.abstergo.it
 blocker.thethorsens.org
@@ -599,7 +600,6 @@ dns.silentlybren.com
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
-dns.skrep.in
 dns.slinkyman.net
 dns.smartguard.io
 dns.soldier.terumi.club
@@ -1071,7 +1071,6 @@ mendozasdelivery.com
 mia01.dnscry.pt
 michelo.line.pm
 mickedi.isgood.host
-mikezhang.xyz
 mil01.dnscry.pt
 morbitzer.de
 mozilla.cloudflare-dns.com
@@ -1211,8 +1210,6 @@ rdns.faelix.net
 rdu01.dnscry.pt
 regiopolis.cloud
 renardbleu.dev
-res-acst1.absolight.net
-res-acst2.absolight.net
 res-acst3.absolight.net
 resolv.flokinet.net
 resolv1.trash.net
@@ -1333,6 +1330,7 @@ tpe01.dnscry.pt
 trf01.dnscry.pt
 tri-dns.net
 tributh.net
+truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
