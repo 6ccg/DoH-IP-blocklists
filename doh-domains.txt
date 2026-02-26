@@ -199,6 +199,7 @@ cubedns.com
 cvt01.dnscry.pt
 cynntex.fun
 d.adguard-dns.com
+d.apemlegit.my.id
 d.bod.lol
 d.niaox.com
 d.toairs.com
@@ -437,6 +438,7 @@ dns.iamninja.ru
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
+dns.imaicool.com
 dns.imchristian.de
 dns.immanuelschaffer.de
 dns.inforlogia.com
@@ -515,6 +517,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -738,6 +741,7 @@ doh-sg.blahdns.com
 doh.18bit.cn
 doh.233py.com
 doh.30x.me
+doh.360.cn
 doh.42l.fr
 doh.aaaab3n.moe
 doh.abraservice.xyz
@@ -1163,7 +1167,6 @@ pdns.faelix.net
 pdns.itxe.net
 pdx01.dnscry.pt
 per.adfilter.net
-performance.gosami.xyz
 phl01.dnscry.pt
 phx01.dnscry.pt
 pihole.aws.ketan.dev
@@ -1298,6 +1301,7 @@ skydragoness.com
 slc01.dnscry.pt
 sm2.doh.pub
 sof01.dnscry.pt
+spacedns.org
 squidmall.vip
 steering.nextdns.io
 sto01.dnscry.pt
