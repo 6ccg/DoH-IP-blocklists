@@ -26,6 +26,7 @@ adb.timnichollsphotography.com
 adblock.dns.mullvad.net
 adblock.doh.mullvad.net
 adblock.indianets.net
+adblock.krctech.dev
 adblock.leenit.kr
 adblock.mydns.network
 adblockersite.com
@@ -320,12 +321,10 @@ dns.circl.lu
 dns.clanless.ovh
 dns.clanto.cloud
 dns.cloud88.com.au
-dns.cloudfiction.eu
 dns.cloudflare.com
 dns.cloudtrust.solutions
 dns.cmrg.net
 dns.coderoria.com
-dns.colorfreedom.org
 dns.comeonjames.club
 dns.comff.net
 dns.comss.one
@@ -372,6 +371,7 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edgy.network
 dns.edison42.dev
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -525,7 +525,6 @@ dns.neeb.it
 dns.neilzone.co.uk
 dns.netraptor.com.au
 dns.netvpn.net
-dns.neubsi.at
 dns.nextdns.io
 dns.nguyendn.com
 dns.nick-slowinski.de
@@ -601,7 +600,6 @@ dns.sitdns.com
 dns.skrep.eu
 dns.skrep.in
 dns.slinkyman.net
-dns.smartguard.io
 dns.soldier.terumi.club
 dns.spil.co.id
 dns.spirio.fr
@@ -835,7 +833,6 @@ doh.totoro.pub
 doh.umbrella.com
 doh.us.dnswarden.com
 doh.valscosmos.com
-doh.viatech.com.tw
 doh.webnmail.de
 doh.wewitro.net
 doh.xcom.pro
@@ -847,6 +844,7 @@ doh1.b-cdn.net
 doh2.b-cdn.net
 doh2.gslb2.xfinity.com
 dohdot.coxlab.net
+dohtrial.att.net
 dooh.cloudflare-dns.com
 dot-de.blahdns.com
 dot-sg.blahdns.com
@@ -1156,6 +1154,7 @@ p3.freedns.controld.com
 par01.dnscry.pt
 paranoia.mydns.network
 pashagame456.com
+pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pdns.faelix.net
 pdns.itxe.net
