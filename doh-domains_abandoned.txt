@@ -54,7 +54,6 @@ bahopir188.dnshome.de
 bcandrade.ml
 berd.moe
 bigora2.vuhai.de
-blackhole.myon.lu
 bld.sys-adm.in
 blitz.ahadns.com
 buc-m2.illmods.com
@@ -76,7 +75,6 @@ dns-east.tylerwahl.com
 dns-nyc.aaflalo.me
 dns-ovh.panszelescik.pl
 dns-secondary.cloudnx.cloud
-dns-tls.bitwiseshift.net
 dns-weblock.wevpn.com
 dns.0rz.ing
 dns.0x55.net
@@ -109,6 +107,7 @@ dns.carter.me
 dns.cfiec.net
 dns.chmc.ml
 dns.chocolatezz.xyz
+dns.cloudfiction.eu
 dns.cloudseriousshit.com
 dns.containerpi.com
 dns.criena.net
@@ -132,7 +131,6 @@ dns.enzonix.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -197,7 +195,6 @@ dns.salonia.it
 dns.seiffert.me
 dns.simplylinux.ch
 dns.siry.de
-dns.smartguard.io
 dns.stvsk.ml
 dns.swin.pro
 dns.theres.one
@@ -245,6 +242,7 @@ dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-fi.blahdns.com
 doh-jp.blahdns.com
+doh.18bit.cn
 doh.360.cn
 doh.774445.xyz
 doh.978159.xyz
@@ -270,6 +268,7 @@ doh.hottis.de
 doh.in.ahadns.net
 doh.infotek.net.id
 doh.it.ahadns.net
+doh.kekew.info
 doh.kutu.my.id
 doh.linngde.com
 doh.linuxsec.org
@@ -351,6 +350,7 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+jurre-home.duckdns.org
 kaitain.restena.lu
 kids.5ososea.com
 kids.dns0.eu
@@ -377,6 +377,7 @@ mabuktogel.ltd
 mabuktogel.marketing
 mabuktogel.properties
 mabuktogel.solutions
+mc-sft.cn
 mecca-is.so-gorgeo.us.kg
 miniapp.global
 minilla.store
@@ -429,7 +430,6 @@ polisitogel.limo
 polisitogel.living
 polisitogel.luxe
 pope.cnblw.me
-res-acst3.absolight.net
 resolver-eu.lelux.fi
 resolver.dnsprivacy.org.uk
 resolver.noaddns.com
