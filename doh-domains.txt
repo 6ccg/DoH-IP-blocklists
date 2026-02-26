@@ -145,6 +145,7 @@ bazooki-infra.dev
 bestwon203.com
 biying.flymlc.com
 bl.eq.md
+blackhole.myon.lu
 blitz-setup.ahadns.com
 block.abstergo.it
 blocker.thethorsens.org
@@ -235,6 +236,7 @@ dns-malwaresec.nordthreatprotection.com
 dns-nosec.quad9.net
 dns-privacy.puregeni.us
 dns-public.ibakerserver.pt
+dns-tls.bitwiseshift.net
 dns-unfiltered.adguard.com
 dns.0ooo.icu
 dns.13evl.com
@@ -524,6 +526,7 @@ dns.neeb.it
 dns.neilzone.co.uk
 dns.netraptor.com.au
 dns.netvpn.net
+dns.neubsi.at
 dns.nextdns.io
 dns.nguyendn.com
 dns.nick-slowinski.de
@@ -603,7 +606,6 @@ dns.smartguard.io
 dns.soldier.terumi.club
 dns.spil.co.id
 dns.spirio.fr
-dns.sstomp.nl
 dns.startupstack.tech
 dns.stevenz.net
 dns.stirringphoto.com
@@ -645,6 +647,7 @@ dns.vault81.de
 dns.velyn.my.id
 dns.vinnyp.xyz
 dns.vinokurov.tk
+dns.vip-kingstore.xyz
 dns.vmath.my.id
 dns.w3ctag.org
 dns.wang.art
@@ -787,7 +790,6 @@ doh.immerda.ch
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
-doh.kekew.info
 doh.kel.pe
 doh.kidzonet.io
 doh.killtw.im
@@ -1068,7 +1070,6 @@ mendozasdelivery.com
 mia01.dnscry.pt
 michelo.line.pm
 mickedi.isgood.host
-mikezhang.xyz
 mil01.dnscry.pt
 morbitzer.de
 mozilla.cloudflare-dns.com
@@ -1330,6 +1331,7 @@ tpe01.dnscry.pt
 trf01.dnscry.pt
 tri-dns.net
 tributh.net
+truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
@@ -1340,7 +1342,6 @@ tyo01.dnscry.pt
 tyo02.dnscry.pt
 typaza.com
 ueni.dyndns.org
-uk-lon.doh.sb
 uk01.dns4me.net
 uncensored.freedns.controld.com
 unfiltered.adguard-dns.com
