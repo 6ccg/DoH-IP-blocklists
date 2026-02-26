@@ -145,7 +145,6 @@ bazooki-infra.dev
 bestwon203.com
 biying.flymlc.com
 bl.eq.md
-blackhole.myon.lu
 blitz-setup.ahadns.com
 block.abstergo.it
 blocker.thethorsens.org
@@ -526,6 +525,7 @@ dns.neeb.it
 dns.neilzone.co.uk
 dns.netraptor.com.au
 dns.netvpn.net
+dns.neubsi.at
 dns.nextdns.io
 dns.nguyendn.com
 dns.nick-slowinski.de
@@ -575,6 +575,7 @@ dns.repinger.com
 dns.retakecs.com
 dns.rin.sh
 dns.roedel.cloud
+dns.ronc.ru
 dns.rotunneling.net
 dns.rubyfish.cn
 dns.sarak.as
@@ -599,6 +600,7 @@ dns.silentlybren.com
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
+dns.skrep.in
 dns.slinkyman.net
 dns.smartguard.io
 dns.soldier.terumi.club
@@ -1061,7 +1063,6 @@ mask-h2.icloud.com
 mask.icloud.com
 masters-of-cloud.de
 max.rethinkdns.com
-mc-sft.cn
 meganerd.nl
 megumin.is.my.waifu.cz
 mendozasdelivery.com
@@ -1155,7 +1156,6 @@ p3.freedns.controld.com
 par01.dnscry.pt
 paranoia.mydns.network
 pashagame456.com
-pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pdns.faelix.net
 pdns.itxe.net
@@ -1330,7 +1330,6 @@ tpe01.dnscry.pt
 trf01.dnscry.pt
 tri-dns.net
 tributh.net
-truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
