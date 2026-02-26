@@ -145,6 +145,7 @@ bazooki-infra.dev
 bestwon203.com
 biying.flymlc.com
 bl.eq.md
+blackhole.myon.lu
 blitz-setup.ahadns.com
 block.abstergo.it
 blocker.thethorsens.org
@@ -170,10 +171,12 @@ cdn.0ms.dev
 cfdjb.org
 chaos-system.de
 child-noads.joindns4.eu
+child.joindns4.eu
 chrome.cloudflare-dns.com
 chromium.dns.nextdns.io
 chuncheon.dnsovertor.cc
 clean.dnsforge.de
+cleanbrowsing.org
 clientdns3.softcom.net
 cloud.198.games
 cloud.samutz.com
@@ -501,6 +504,7 @@ dns.melvin2204.nl
 dns.mestdag.fr
 dns.mh4ckt3mh4ckt1c4s.xyz
 dns.michelo.cl
+dns.mihanentalpo.me
 dns.mikeliu.org
 dns.mikrotikrumahan.my.id
 dns.milkpie.one
@@ -522,7 +526,6 @@ dns.neeb.it
 dns.neilzone.co.uk
 dns.netraptor.com.au
 dns.netvpn.net
-dns.neubsi.at
 dns.nextdns.io
 dns.nguyendn.com
 dns.nick-slowinski.de
@@ -572,7 +575,6 @@ dns.repinger.com
 dns.retakecs.com
 dns.rin.sh
 dns.roedel.cloud
-dns.ronc.ru
 dns.rotunneling.net
 dns.rubyfish.cn
 dns.sarak.as
@@ -597,7 +599,6 @@ dns.silentlybren.com
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
-dns.skrep.in
 dns.slinkyman.net
 dns.smartguard.io
 dns.soldier.terumi.club
@@ -733,7 +734,6 @@ doh-primary-pool.goodbyegambling.com
 doh-pure.onedns.net
 doh-random-upstream.nicolas-dorriere.fr
 doh-sg.blahdns.com
-doh.18bit.cn
 doh.233py.com
 doh.30x.me
 doh.360.cn
@@ -849,6 +849,7 @@ dohtrial.att.net
 dooh.cloudflare-dns.com
 dot-de.blahdns.com
 dot-sg.blahdns.com
+dot.360.cn
 dot.cox.net
 dot.ffmuc.net
 dot.la.ahadns.net
@@ -1009,6 +1010,7 @@ jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
 jurre-home.duckdns.org
+justhost.bedro.cloud
 juuri.hagezi.org
 kaiwu.xyz
 kavkaz.monster
@@ -1153,6 +1155,7 @@ p3.freedns.controld.com
 par01.dnscry.pt
 paranoia.mydns.network
 pashagame456.com
+pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pdns.faelix.net
 pdns.itxe.net
@@ -1205,6 +1208,7 @@ rdns.faelix.net
 rdu01.dnscry.pt
 regiopolis.cloud
 renardbleu.dev
+res-acst1.absolight.net
 res-acst2.absolight.net
 res-acst3.absolight.net
 resolv.flokinet.net
@@ -1225,6 +1229,7 @@ resolver2-fs.opendns.com
 resolver2.absolight.net
 resolver2.ipv6-sandbox.opendns.com
 resolver2.opendns.com
+resolver3.absolight.net
 resolver4.dns.openinternet.io
 rethinkdns.com
 revelio.top
@@ -1325,6 +1330,7 @@ tpe01.dnscry.pt
 trf01.dnscry.pt
 tri-dns.net
 tributh.net
+truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
