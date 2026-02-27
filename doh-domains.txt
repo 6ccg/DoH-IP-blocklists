@@ -194,7 +194,6 @@ comss.ru
 cph01.dnscry.pt
 crypto.sx
 cryptostorm.is
-cube.neubsi.at
 cubedns.com
 cvt01.dnscry.pt
 cynntex.fun
@@ -376,7 +375,6 @@ dns.edison42.dev
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
-dns.eu-frankfurt-1.oraclecloud.com
 dns.expert
 dns.extrawdw.net
 dns.f4a.fun
@@ -438,7 +436,6 @@ dns.iamninja.ru
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
-dns.imaicool.com
 dns.imchristian.de
 dns.immanuelschaffer.de
 dns.inforlogia.com
@@ -517,6 +514,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -606,6 +604,7 @@ dns.smartguard.io
 dns.soldier.terumi.club
 dns.spil.co.id
 dns.spirio.fr
+dns.sstomp.nl
 dns.startupstack.tech
 dns.stevenz.net
 dns.stirringphoto.com
@@ -790,6 +789,7 @@ doh.immerda.ch
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
+doh.kekew.info
 doh.kel.pe
 doh.kidzonet.io
 doh.killtw.im
@@ -851,7 +851,6 @@ dohtrial.att.net
 dooh.cloudflare-dns.com
 dot-de.blahdns.com
 dot-sg.blahdns.com
-dot.360.cn
 dot.cox.net
 dot.ffmuc.net
 dot.la.ahadns.net
@@ -1070,6 +1069,7 @@ mendozasdelivery.com
 mia01.dnscry.pt
 michelo.line.pm
 mickedi.isgood.host
+mikezhang.xyz
 mil01.dnscry.pt
 morbitzer.de
 mozilla.cloudflare-dns.com
@@ -1156,7 +1156,6 @@ p3.freedns.controld.com
 par01.dnscry.pt
 paranoia.mydns.network
 pashagame456.com
-pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pdns.faelix.net
 pdns.itxe.net
@@ -1301,7 +1300,6 @@ spacedns.org
 squidmall.vip
 steering.nextdns.io
 sto01.dnscry.pt
-stratus.bugz.fr
 sukidayo.eu.org
 sundalandia.pp.ua
 sunnygyl.com
@@ -1336,12 +1334,12 @@ tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
-tungdnsne.duckdns.org
 tuskythehusky.tech
 tyo01.dnscry.pt
 tyo02.dnscry.pt
 typaza.com
 ueni.dyndns.org
+uk-lon.doh.sb
 uk01.dns4me.net
 uncensored.freedns.controld.com
 unfiltered.adguard-dns.com
