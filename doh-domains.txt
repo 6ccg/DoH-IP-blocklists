@@ -199,12 +199,10 @@ cubedns.com
 cvt01.dnscry.pt
 cynntex.fun
 d.adguard-dns.com
-d.apemlegit.my.id
 d.bod.lol
 d.niaox.com
 d.toairs.com
 d2.shabi.icu
-dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -236,6 +234,7 @@ dns-malwaresec.nordthreatprotection.com
 dns-nosec.quad9.net
 dns-privacy.puregeni.us
 dns-public.ibakerserver.pt
+dns-tls.bitwiseshift.net
 dns-unfiltered.adguard.com
 dns.0ooo.icu
 dns.13evl.com
@@ -738,6 +737,7 @@ doh-sg.blahdns.com
 doh.18bit.cn
 doh.233py.com
 doh.30x.me
+doh.360.cn
 doh.42l.fr
 doh.aaaab3n.moe
 doh.abraservice.xyz
