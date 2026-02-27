@@ -26,7 +26,6 @@ adb.timnichollsphotography.com
 adblock.dns.mullvad.net
 adblock.doh.mullvad.net
 adblock.indianets.net
-adblock.krctech.dev
 adblock.leenit.kr
 adblock.mydns.network
 adblockersite.com
@@ -89,6 +88,7 @@ adguard1.leadmon.net
 adguardhome.atakorah.com
 adl.adfilter.net
 ads.hunga1k47.com
+adult-filter-dns.cleanbrowsing.org
 ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
 ae-fuj-w-p-3.nashkan.net
@@ -143,10 +143,9 @@ basic.rethinkdns.com
 bazooki-infra.dev
 bestwon203.com
 biying.flymlc.com
-bl.eq.md
+blackhole.myon.lu
 blitz-setup.ahadns.com
 block.abstergo.it
-blocker.thethorsens.org
 blockerads.multimediaconcept.fr
 blog.kimiblock.top
 bluemood.me
@@ -174,6 +173,7 @@ chrome.cloudflare-dns.com
 chromium.dns.nextdns.io
 chuncheon.dnsovertor.cc
 clean.dnsforge.de
+cleanbrowsing.org
 clientdns3.softcom.net
 cloud.198.games
 cloud.samutz.com
@@ -195,11 +195,11 @@ cubedns.com
 cvt01.dnscry.pt
 cynntex.fun
 d.adguard-dns.com
+d.apemlegit.my.id
 d.bod.lol
 d.niaox.com
 d.toairs.com
 d2.shabi.icu
-dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -383,7 +383,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -786,7 +785,6 @@ doh.immerda.ch
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
-doh.kekew.info
 doh.kel.pe
 doh.kidzonet.io
 doh.killtw.im
@@ -1060,6 +1058,7 @@ mask-h2.icloud.com
 mask.icloud.com
 masters-of-cloud.de
 max.rethinkdns.com
+mc-sft.cn
 meganerd.nl
 megumin.is.my.waifu.cz
 mendozasdelivery.com
@@ -1100,6 +1099,7 @@ ns.nerdytechgeeks.co.za
 ns.net.kg
 ns.nwps.fi
 ns.ral9005.org
+ns.trcnet.fi
 ns0.fdn.fr
 ns1.dotls.org
 ns1.fdn.fr
@@ -1205,8 +1205,7 @@ rdns.faelix.net
 rdu01.dnscry.pt
 regiopolis.cloud
 renardbleu.dev
-res-acst1.absolight.net
-res-acst2.absolight.net
+res-acst3.absolight.net
 resolv.flokinet.net
 resolv1.trash.net
 resolv2.trash.net
@@ -1222,7 +1221,6 @@ resolver1.absolight.net
 resolver1.ipv6-sandbox.opendns.com
 resolver1.opendns.com
 resolver2-fs.opendns.com
-resolver2.absolight.net
 resolver2.ipv6-sandbox.opendns.com
 resolver2.opendns.com
 resolver3.absolight.net
@@ -1358,7 +1356,6 @@ us-nyc-w-p-1.nashkan.net
 us-saj-w-f-1.nashkan.net
 us-saj-w-p-1.nashkan.net
 us-sj.foxyfy.net
-us.doh.cloudveil.org
 us01.dns4me.net
 us02.dns4me.net
 us1.blissdns.net
