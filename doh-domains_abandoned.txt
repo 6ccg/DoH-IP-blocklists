@@ -54,7 +54,6 @@ bahopir188.dnshome.de
 bcandrade.ml
 berd.moe
 bigora2.vuhai.de
-blackhole.myon.lu
 bld.sys-adm.in
 blitz.ahadns.com
 buc-m2.illmods.com
@@ -76,6 +75,7 @@ dns-east.tylerwahl.com
 dns-nyc.aaflalo.me
 dns-ovh.panszelescik.pl
 dns-secondary.cloudnx.cloud
+dns-tls.bitwiseshift.net
 dns-weblock.wevpn.com
 dns.0rz.ing
 dns.0x55.net
@@ -123,6 +123,7 @@ dns.dooks.uk
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -142,7 +143,6 @@ dns.hugo0.moe
 dns.huyhoangit.net
 dns.hypercute.eu
 dns.ian.rocks
-dns.imaicool.com
 dns.inclusioproject.com
 dns.indust.me
 dns.indybanipal.com
@@ -156,7 +156,6 @@ dns.janl.eu
 dns.joaofidelix.com.br
 dns.jucker.engineering
 dns.keke125.com
-dns.kukal.cz
 dns.kumoumi.net
 dns.lars-lehmann.net
 dns.lashes-brow.ru
@@ -245,6 +244,7 @@ dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-fi.blahdns.com
 doh-jp.blahdns.com
+doh.360.cn
 doh.774445.xyz
 doh.978159.xyz
 doh.abmb.win
@@ -397,7 +397,6 @@ nl.rslvr.eu
 nora-is.so-gorgeo.us.kg
 nova-is.so-gorgeo.us.kg
 ns.lov.host
-ns.trcnet.fi
 ns1-doh.iriseden.fr
 ns1.dnsprivacy.at
 ns2-doh.iriseden.fr
@@ -416,6 +415,7 @@ orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
 paradise-human.shop
+pates.services.sfr.fr.casepp.sfr.fr
 pepetio.xyz
 pi1.node15.com
 please.dontsteal.my.id
