@@ -54,6 +54,7 @@ bahopir188.dnshome.de
 bcandrade.ml
 berd.moe
 bigora2.vuhai.de
+blackhole.myon.lu
 bld.sys-adm.in
 blitz.ahadns.com
 buc-m2.illmods.com
@@ -67,6 +68,7 @@ console.carestyle.org
 cossxiu.ga
 cube.neubsi.at
 cvt-ic-us-adns-001.clearviewtechnology.net
+darkness.is.my.waifu.cz
 de-d2.foxyfy.net
 de.adhole.org
 dfw01.dnscry.pt
@@ -109,6 +111,7 @@ dns.cfiec.net
 dns.chmc.ml
 dns.chocolatezz.xyz
 dns.cloudseriousshit.com
+dns.comss.one
 dns.containerpi.com
 dns.criena.net
 dns.cybershell.xyz
@@ -128,11 +131,9 @@ dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.enzonix.com
-dns.eu-frankfurt-1.oraclecloud.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -144,7 +145,6 @@ dns.hugo0.moe
 dns.huyhoangit.net
 dns.hypercute.eu
 dns.ian.rocks
-dns.imaicool.com
 dns.inclusioproject.com
 dns.indust.me
 dns.indybanipal.com
@@ -169,6 +169,7 @@ dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -227,6 +228,7 @@ dns1.ipv6.dnscrypt.ca
 dns1.lothuscorp.com.br
 dns1.nielsdb.be
 dns1.pietjacobs.be
+dns1.serdcebolit.ru
 dns1.sg.newpangea.de
 dns1.us.newpangea.de
 dns2.dnscrypt.ca
@@ -303,7 +305,6 @@ dos.bytetel.net
 dot-ch.blahdns.com
 dot-fi.blahdns.com
 dot-jp.blahdns.com
-dot.360.cn
 dot.au.ahadns.net
 dot.centraleu.pi-dns.com
 dot.chi.ahadns.net
@@ -394,6 +395,7 @@ net01.youcef.io
 nightlymoon.us.kg
 nindy-is.so-gorgeo.us.kg
 nl.rslvr.eu
+noads.joindns4.eu
 nora-is.so-gorgeo.us.kg
 nova-is.so-gorgeo.us.kg
 ns.lov.host
@@ -442,7 +444,6 @@ sitha-is.so-gorgeo.us.kg
 snoke.meganerd.nl
 solaxy.live
 sriedmueadguard.casa
-stratus.bugz.fr
 surt.ml
 sweden.privacy-dns.pw
 syd01.dnscry.pt
@@ -451,7 +452,6 @@ tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
-tungdnsne.duckdns.org
 tw2.ooroot.com
 tx.teradns.org
 uf-dns.lista.my.id

@@ -145,7 +145,6 @@ bazooki-infra.dev
 bestwon203.com
 biying.flymlc.com
 bl.eq.md
-blackhole.myon.lu
 blitz-setup.ahadns.com
 block.abstergo.it
 blocker.thethorsens.org
@@ -204,7 +203,6 @@ d.niaox.com
 d.toairs.com
 d2.shabi.icu
 dandelionsprout.asuscomm.com
-darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
 de-dus.doh.sb
@@ -328,7 +326,6 @@ dns.coderoria.com
 dns.colorfreedom.org
 dns.comeonjames.club
 dns.comff.net
-dns.comss.one
 dns.connect.fail
 dns.controld.com
 dns.cooluc.com
@@ -375,6 +372,7 @@ dns.edison42.dev
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
+dns.eu-frankfurt-1.oraclecloud.com
 dns.expert
 dns.extrawdw.net
 dns.f4a.fun
@@ -386,6 +384,7 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -436,6 +435,7 @@ dns.iamninja.ru
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
+dns.imaicool.com
 dns.imchristian.de
 dns.immanuelschaffer.de
 dns.inforlogia.com
@@ -514,7 +514,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -679,7 +678,6 @@ dns1.klcd.eu
 dns1.nextdns.io
 dns1.nordvpn.com
 dns1.ryan-palmer.com
-dns1.serdcebolit.ru
 dns1.server.my.id
 dns1.techeasy.org
 dns1.techniverse.net
@@ -851,6 +849,7 @@ dohtrial.att.net
 dooh.cloudflare-dns.com
 dot-de.blahdns.com
 dot-sg.blahdns.com
+dot.360.cn
 dot.cox.net
 dot.ffmuc.net
 dot.la.ahadns.net
@@ -1095,7 +1094,6 @@ nl-dro-w-f-1.nashkan.net
 nl-dro-w-p-1.nashkan.net
 nl.dns.privex.io
 noads.imbuffering.com
-noads.joindns4.eu
 ns.00dani.me
 ns.data.haus
 ns.mtsoln.com
@@ -1300,6 +1298,7 @@ spacedns.org
 squidmall.vip
 steering.nextdns.io
 sto01.dnscry.pt
+stratus.bugz.fr
 sukidayo.eu.org
 sundalandia.pp.ua
 sunnygyl.com
@@ -1334,6 +1333,7 @@ tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
+tungdnsne.duckdns.org
 tuskythehusky.tech
 tyo01.dnscry.pt
 tyo02.dnscry.pt
