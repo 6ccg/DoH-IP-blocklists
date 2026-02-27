@@ -202,7 +202,6 @@ d.bod.lol
 d.niaox.com
 d.toairs.com
 d2.shabi.icu
-dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -625,7 +624,6 @@ dns.t53.de
 dns.technologycage.com
 dns.technostriker.com
 dns.telekom.de
-dns.tesem.dog
 dns.thebuckners.org
 dns.thegoodsource.net
 dns.therifleman.name
@@ -736,7 +734,6 @@ doh-random-upstream.nicolas-dorriere.fr
 doh-sg.blahdns.com
 doh.233py.com
 doh.30x.me
-doh.360.cn
 doh.42l.fr
 doh.aaaab3n.moe
 doh.abraservice.xyz
@@ -850,7 +847,6 @@ dohtrial.att.net
 dooh.cloudflare-dns.com
 dot-de.blahdns.com
 dot-sg.blahdns.com
-dot.360.cn
 dot.cox.net
 dot.ffmuc.net
 dot.la.ahadns.net
@@ -966,6 +962,7 @@ hole.elbschloss.xyz
 home-server.store
 home.enjoymylife.net
 home.wriedts.de
+home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
@@ -1009,6 +1006,7 @@ jp01.dns4me.net
 jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
+jurre-home.duckdns.org
 justhost.bedro.cloud
 juuri.hagezi.org
 kaiwu.xyz
@@ -1024,6 +1022,7 @@ kr1.ooroot.com
 kr2.ooroot.com
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
+krtekvpn.duckdns.org
 kx-97795-tr.xyz
 kz-pav-w-p-1.nashkan.net
 las-vegas.privacy-dns.pw
@@ -1121,7 +1120,6 @@ ns3.wuyouss.com
 ns4.opennameserver.org
 nsc.torgues.net
 nsec.arnor.org
-ntwrkh.pro
 nue01.dnscry.pt
 nvi-dns.bitdefender.net
 ny.teradns.org
@@ -1153,7 +1151,6 @@ p3.freedns.controld.com
 par01.dnscry.pt
 paranoia.mydns.network
 pashagame456.com
-pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pdns.faelix.net
 pdns.itxe.net
@@ -1358,7 +1355,6 @@ us-nyc-w-p-1.nashkan.net
 us-saj-w-f-1.nashkan.net
 us-saj-w-p-1.nashkan.net
 us-sj.foxyfy.net
-us.doh.cloudveil.org
 us01.dns4me.net
 us02.dns4me.net
 us1.blissdns.net
