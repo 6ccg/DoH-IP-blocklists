@@ -46,7 +46,6 @@ ag.ssrahul96.xyz
 aihe.app
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
-area51.mywire.org
 asia.dnscepat.id
 au.rslvr.eu
 awan.ftp.sh
@@ -66,6 +65,7 @@ chr.kepegawaiandju.id
 clearweb.woodbridge.club
 console.carestyle.org
 cossxiu.ga
+cube.neubsi.at
 cvt-ic-us-adns-001.clearviewtechnology.net
 de-d2.foxyfy.net
 de.adhole.org
@@ -143,6 +143,7 @@ dns.hugo0.moe
 dns.huyhoangit.net
 dns.hypercute.eu
 dns.ian.rocks
+dns.imaicool.com
 dns.inclusioproject.com
 dns.indust.me
 dns.indybanipal.com
@@ -156,7 +157,6 @@ dns.janl.eu
 dns.joaofidelix.com.br
 dns.jucker.engineering
 dns.keke125.com
-dns.koala.us.to
 dns.kumoumi.net
 dns.lars-lehmann.net
 dns.lashes-brow.ru
@@ -450,7 +450,6 @@ tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
-tungdnsne.duckdns.org
 tw2.ooroot.com
 tx.teradns.org
 uf-dns.lista.my.id
