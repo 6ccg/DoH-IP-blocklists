@@ -145,6 +145,7 @@ bazooki-infra.dev
 bestwon203.com
 biying.flymlc.com
 bl.eq.md
+blackhole.myon.lu
 blitz-setup.ahadns.com
 block.abstergo.it
 blocker.thethorsens.org
@@ -193,6 +194,7 @@ comss.ru
 cph01.dnscry.pt
 crypto.sx
 cryptostorm.is
+cube.neubsi.at
 cubedns.com
 cvt01.dnscry.pt
 cynntex.fun
@@ -406,6 +408,7 @@ dns.girino.org
 dns.glf.wtf
 dns.glorydns.com
 dns.gnb09.id
+dns.goldplate.org
 dns.google
 dns.google.com
 dns.green-ping.lol
@@ -443,6 +446,7 @@ dns.internal.hosmatic.com
 dns.is0mino.com
 dns.islandnet.com
 dns.jhangy.us
+dns.jichi.io
 dns.jinwoo.dev
 dns.jiyi.eu
 dns.joey01245.nl
@@ -942,7 +946,6 @@ goose.buckyfan.net
 greatideasforlife.lol
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1152,7 +1155,6 @@ p3.freedns.controld.com
 par01.dnscry.pt
 paranoia.mydns.network
 pashagame456.com
-pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pdns.faelix.net
 pdns.itxe.net
@@ -1359,7 +1361,6 @@ us-nyc-w-f-1.nashkan.net
 us-nyc-w-p-1.nashkan.net
 us-saj-w-f-1.nashkan.net
 us-saj-w-p-1.nashkan.net
-us-sj.foxyfy.net
 us.doh.cloudveil.org
 us01.dns4me.net
 us02.dns4me.net
