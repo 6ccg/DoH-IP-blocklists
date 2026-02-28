@@ -54,7 +54,6 @@ bahopir188.dnshome.de
 bcandrade.ml
 berd.moe
 bigora2.vuhai.de
-blackhole.myon.lu
 bld.sys-adm.in
 blitz.ahadns.com
 buc-m2.illmods.com
@@ -133,6 +132,7 @@ dns.fgbk.net
 dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
+dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.hannielzhang.com
@@ -166,6 +166,7 @@ dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.neubsi.at
@@ -173,6 +174,7 @@ dns.nhtsky.com
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
 dns.norvig.dk
+dns.novg.net
 dns.npsolution.it
 dns.onp.cloud
 dns.opnsource.com.au
@@ -332,7 +334,6 @@ fr-gra-w-f-1.nashkan.net
 groupy.ga
 ha.o51r15.com
 hk.rslvr.eu
-home27.duckdns.org
 hrk01.dnscry.pt
 hungary.privacy-dns.pw
 hydroxlab.ru.com
@@ -428,9 +429,6 @@ polisitogel.limo
 polisitogel.living
 polisitogel.luxe
 pope.cnblw.me
-res-acst1.absolight.net
-res-acst2.absolight.net
-res-acst3.absolight.net
 resolver-eu.lelux.fi
 resolver.dnsprivacy.org.uk
 resolver.noaddns.com
@@ -451,7 +449,6 @@ t2c.240130034.xyz
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
-truta.org
 tundranet.hec.to
 tw2.ooroot.com
 tx.teradns.org
