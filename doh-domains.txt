@@ -171,7 +171,6 @@ cdn.0ms.dev
 cfdjb.org
 chaos-system.de
 child-noads.joindns4.eu
-child.joindns4.eu
 chrome.cloudflare-dns.com
 chromium.dns.nextdns.io
 chuncheon.dnsovertor.cc
@@ -194,6 +193,7 @@ comss.ru
 cph01.dnscry.pt
 crypto.sx
 cryptostorm.is
+cube.neubsi.at
 cubedns.com
 cvt01.dnscry.pt
 cynntex.fun
@@ -437,6 +437,7 @@ dns.iamninja.ru
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
+dns.imaicool.com
 dns.imchristian.de
 dns.immanuelschaffer.de
 dns.inforlogia.com
@@ -595,6 +596,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -645,7 +647,6 @@ dns.vaioswolke.xyz
 dns.vault81.de
 dns.velyn.my.id
 dns.vinnyp.xyz
-dns.vinokurov.tk
 dns.vip-kingstore.xyz
 dns.vmath.my.id
 dns.w3ctag.org
@@ -737,7 +738,6 @@ doh-sg.blahdns.com
 doh.18bit.cn
 doh.233py.com
 doh.30x.me
-doh.360.cn
 doh.42l.fr
 doh.aaaab3n.moe
 doh.abraservice.xyz
@@ -789,7 +789,6 @@ doh.immerda.ch
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
-doh.kekew.info
 doh.kel.pe
 doh.kidzonet.io
 doh.killtw.im
@@ -1103,7 +1102,6 @@ ns.nerdytechgeeks.co.za
 ns.net.kg
 ns.nwps.fi
 ns.ral9005.org
-ns.trcnet.fi
 ns0.fdn.fr
 ns1.dotls.org
 ns1.fdn.fr
@@ -1330,7 +1328,6 @@ tpe01.dnscry.pt
 trf01.dnscry.pt
 tri-dns.net
 tributh.net
-truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
