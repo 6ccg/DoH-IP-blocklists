@@ -517,6 +517,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -526,7 +527,6 @@ dns.neeb.it
 dns.neilzone.co.uk
 dns.netraptor.com.au
 dns.netvpn.net
-dns.neubsi.at
 dns.nextdns.io
 dns.nguyendn.com
 dns.nick-slowinski.de
@@ -736,7 +736,6 @@ doh-primary-pool.goodbyegambling.com
 doh-pure.onedns.net
 doh-random-upstream.nicolas-dorriere.fr
 doh-sg.blahdns.com
-doh.18bit.cn
 doh.233py.com
 doh.30x.me
 doh.360.cn
@@ -969,6 +968,7 @@ hole.elbschloss.xyz
 home-server.store
 home.enjoymylife.net
 home.wriedts.de
+home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
@@ -1332,6 +1332,7 @@ tpe01.dnscry.pt
 trf01.dnscry.pt
 tri-dns.net
 tributh.net
+truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
