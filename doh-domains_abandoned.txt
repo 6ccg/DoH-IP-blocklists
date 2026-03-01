@@ -101,6 +101,7 @@ dns.bayas.dev
 dns.benpro.fr
 dns.blaze-sk.ru
 dns.bravoc.one
+dns.burgas.pro
 dns.bw.i81.ru
 dns.cabbage.zone
 dns.carter.me
@@ -243,7 +244,6 @@ dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-fi.blahdns.com
 doh-jp.blahdns.com
-doh.18bit.cn
 doh.774445.xyz
 doh.978159.xyz
 doh.abmb.win
@@ -447,6 +447,7 @@ t2c.240130034.xyz
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
+truta.org
 tundranet.hec.to
 tw2.ooroot.com
 tx.teradns.org
